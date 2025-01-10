@@ -23,6 +23,6 @@ On verifie la version de git
 
 `git --version`
 
-On connecte le deossier à notre Github
+On connecte le dossier à notre Github
 
 `git remote add origin https://github.com//cours_git_masson`
