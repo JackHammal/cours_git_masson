@@ -2,13 +2,13 @@
 
 ## Github
 
-1. créer un compte github
-2. crée un ripo
-3. on prend l'url du ripo
+1. Créer un compte Github
+2. Créer un repository
+3. On prend l'url du repository
 
-## sur la machine
+## Sur la machine
 
-crée un dossier pour faire le projet
+Créer un dossier pour faire le projet
 
 ```
 mkdir cours_masson
@@ -23,6 +23,6 @@ On verifie la version de git
 
 `git --version`
 
-On connecte le deossier à mon github
+On connecte le deossier à notre Github
 
 `git remote add origin https://github.com//cours_git_masson`
