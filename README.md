@@ -10,8 +10,8 @@
 
 Créer un dossier pour faire le projet
 
-`mkdir cours_masson
-cd cours_masson`
+`mkdir cours_masson`
+`cd cours_masson`
 
 On active git
 
