@@ -26,3 +26,11 @@ On verifie la version de git
 On connecte le dossier à notre Github
 
 `git remote add origin https://github.com/JackHammal/cours_git_masson.git`
+
+On crée et pousse un fichier
+
+`git add`
+
+`git config user.email "git@j123hammal@gmail.com"`
+
+`git config user.name "JackHammal"`
