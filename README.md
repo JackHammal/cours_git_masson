@@ -29,7 +29,7 @@ On connecte le dossier à notre Github
 
 On crée et pousse un fichier
 
-`git add`
+`git add text.txt`
 
 `git config user.email "git@j123hammal@gmail.com"`
 
