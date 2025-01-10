@@ -37,6 +37,6 @@ On crée et pousse un fichier
 
 `git commit -m "message"`
 
-`git branch nom_branche`
+`git branch test_branch`
 
-`git push origin nom_branche`
+`git push origin test_branch`
