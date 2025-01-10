@@ -31,7 +31,7 @@ On crée et pousse un fichier
 
 `git add text.txt`
 
-`git config user.email "git@j123hammal@gmail.com"`
+`git config user.email "j123hammal@gmail.com"`
 
 `git config user.name "JackHammal"`
 
