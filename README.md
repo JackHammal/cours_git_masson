@@ -25,4 +25,4 @@ On verifie la version de git
 
 On connecte le dossier à notre Github
 
-`git remote add origin https://github.com//cours_git_masson`
+`git remote add origin https://github.com/JackHammal/cours_git_masson`
