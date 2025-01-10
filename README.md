@@ -34,3 +34,9 @@ On crée et pousse un fichier
 `git config user.email "git@j123hammal@gmail.com"`
 
 `git config user.name "JackHammal"`
+
+`git commit -m "message"`
+
+`git branch nom_branche`
+
+`git push origin nom_branche`
